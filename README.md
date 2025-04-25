@@ -12,3 +12,5 @@ Requirements:
 - `GET /owner/repo/badge?size=default|large`: returns a badge that can be added to the repo to subscribe. Shows amount of subscribers. Can also add images of the people who acutally did subscribe.
 
 The cool thing about this, is that you can just add it to your readme to collect people that want to stay updated about this.
+
+Wdyt? comment here: https://x.com/janwilmake/status/1915665981994668188 (waitlist isn't available yet)
